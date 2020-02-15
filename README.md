@@ -1,2 +1,2 @@
 # MaitreD
-This is to create web page for MaitreD
+This repo is created for MaitreD Calculator

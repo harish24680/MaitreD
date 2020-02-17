@@ -1,2 +1,2 @@
 # MaitreD
-This repo is created for MaitreD Calculator.
+This repo is created for MaitreD Calculator

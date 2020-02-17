@@ -18,6 +18,7 @@ background-color:lightseagreen;
 }
 
 .exofont{
+    margin-left: 5px;
     font-size: 25px;
     font-family: 'Exo', sans-serif;
 }
@@ -44,11 +45,12 @@ background-color:lightseagreen;
     font-size: 30px;
     margin-top: 25px;
     margin-bottom: 10px;
-    width: 100%;
+    width: 50%;
     border-radius: 20PX;
     background-color: #008CBA;
     
     cursor:pointer;
+    margin-left: 150px;
 
 
 }
